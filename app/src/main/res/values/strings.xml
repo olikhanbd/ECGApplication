@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ECG Monitoring</string>
+    <string name="title">ECG Monitoring</string>
+    <string name="credit1">Mehdi Hasan Chowdhury</string>
+    <string name="credit2">Assistant Professor</string>
+    <string name="credit3">Chittagong University of Engineering &amp; Technology</string>
+</resources>
